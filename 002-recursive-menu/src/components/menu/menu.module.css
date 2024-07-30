@@ -1,0 +1,17 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.list_item {
+  margin-bottom: 10px;
+}
+.sub_list {
+  list-style: none;
+  margin-bottom: 10px;
+}
+.toggle_btn {
+  padding: 0;
+  background: transparent;
+  border: none;
+}
