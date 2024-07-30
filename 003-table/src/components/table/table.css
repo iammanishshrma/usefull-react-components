@@ -1,0 +1,11 @@
+.custom-table th {
+    cursor: pointer;
+}
+
+.custom-table th.ascending::after {
+    content: " ↑"; /* Up arrow */
+}
+
+.custom-table th.descending::after {
+    content: " ↓"; /* Down arrow */
+}
